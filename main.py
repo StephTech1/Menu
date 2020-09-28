@@ -1,0 +1,6 @@
+print("Hey there just a few questions to create your perfect meal!!")
+starter = input("What is your favourite starter?")
+main = input ("What is your favourite main dish?")
+dessert = input ("Yummy! What is your favourite dessert?")
+drink = input ("What is your favourite drink?")
+print("Your perfect meal is " + starter +"," + main +"," + dessert +"," "with a glass of" + drink + ".")
